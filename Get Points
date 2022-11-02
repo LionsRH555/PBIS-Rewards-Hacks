@@ -1,0 +1,1 @@
+var newPoints=prompt("How many PBIS Points do you want?");localStorage.setItem("balance",newPoints);alert("You now have "+newPoints+" PBIS points.");
